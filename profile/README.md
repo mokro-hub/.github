@@ -9,7 +9,13 @@ Documentation, manuals and shematics for each Mokro hub component.
 A mobile app for configuring and automating an ecosystem of Mokro units.
 
 ### [**Mokro Server**](https://github.com/mokro-hub/mokro-server)
-A server that connects all your Mokro hub devices into an ecosystem
+A server that connects all your Mokro hub devices into an ecosystem.
+
+### [**Mokro Watchdog unit**](https://github.com/mokro-hub/mokro-watchdog-unit)
+Unit for reading and reporting the soil moisture.
+
+### [**Mokro Waterman unit**](https://github.com/mokro-hub/mokro-waterman-unit)
+Unit responsible for automated watering.
 
 ---
 
